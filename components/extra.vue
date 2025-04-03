@@ -18,8 +18,8 @@
   const store = useLangStore()
   const lang = computed(() => store.lang)
   const setLang = (lang: string) => {
-    setLocale(lang)
     store.setLang(lang)
+    setLocale(lang)
   }
 </script>
 
