@@ -27,8 +27,7 @@
 					{
 						"icon": "https://www.get-paid.com/favicon.ico",
 						"name": "get-paid",
-						"desc": "Earn and win coins by completing online surveys and tasks,playing games,watching videos,and more.Exchange coins						Easily redeem the coins you earn and win in our store or cash them out.
-						",
+						"desc": "Earn and win coins by completing online surveys and tasks,playing games,watching videos,and more.Exchange coins Easily redeem the coins you earn and win in our store or cash them out.",
 						"url": "https://www.get-paid.com/",
 						"rate": 5,
 						"breadcrumb": ["博客看点", "博客看点", "Team"],
@@ -48,7 +47,7 @@
 				],
 				"icon": "",
 				"id": 199
-			},
+			}
 
 		],
 		"icon": "",
