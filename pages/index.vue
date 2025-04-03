@@ -19,13 +19,16 @@
 </template>
 
 <script setup lang="ts">
-  useHead({
-    title: '首页',
-    meta: [
-      { hid: 'keywords', name: 'keywords', content: '关键词，导航' },
-      { hid: 'description', name: 'description', content: '这是一个导航网站' }
-    ]
-  })
+  const nuxtApp = useNuxtApp()
+  useHead({ ...nuxtApp.$setHead('home') })
+
+  // useHead({
+  //   title: t('title'),
+  //   meta: [
+  //     { hid: 'keywords', name: 'keywords', content: '关键词，导航' },
+  //     { hid: 'description', name: 'description', content: '这是一个导航网站' }
+  //   ]
+  // })
   definePageMeta({
     redirect: '/collect',
     title: '首页',
