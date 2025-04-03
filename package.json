@@ -1,0 +1,49 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "prepare": "husky install",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore",
+    "format": "prettier --write ./*"
+  },
+  "devDependencies": {
+    "@element-plus/nuxt": "^1.0.6",
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/i18n": "^8.5.6",
+    "@types/file-saver": "^2.0.7",
+    "@types/nprogress": "^0.2.3",
+    "autoprefixer": "^10.4.16",
+    "husky": "^8.0.0",
+    "lint-staged": "^15.1.0",
+    "nuxt": "^3.8.1",
+    "postcss": "^8.4.31",
+    "prettier": "^3.1.0",
+    "tailwindcss": "^3.3.5",
+    "typescript": "*",
+    "vue": "^3.4.27",
+    "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "@pinia/nuxt": "^0.5.1",
+    "@vueuse/core": "^10.6.1",
+    "axios": "^1.6.2",
+    "element-plus": "^2.4.2",
+    "file-saver": "^2.0.5",
+    "highlight.js": "^11.9.0",
+    "less": "^4.2.0",
+    "nprogress": "^0.2.0",
+    "pinia": "^2.1.7",
+    "unhead": "^1.11.20",
+    "vue-i18n": "9.13.1"
+  },
+  "lint-staged": {
+    "*.{vue,ts}": "prettier --write"
+  }
+}

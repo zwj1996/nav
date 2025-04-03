@@ -1,0 +1,8 @@
+/output/*
+/.husky/**
+/.nuxt/**
+/node_modules/**
+Dockerfile
+Jenkinsfile
+.eslintcache
+pnpm-lock.yaml

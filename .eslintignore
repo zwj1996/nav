@@ -1,0 +1,16 @@
+*.sh
+.eslintcache
+/pnpm-lock.yaml
+node_modules
+*.md
+*.woff
+*.ttf
+.vscode
+.idea
+dist
+/output
+/docs
+.husky
+.local
+/bin
+Dockerfile
