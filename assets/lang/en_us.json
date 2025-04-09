@@ -5,6 +5,5 @@
   "viewMsg": "Visit the Website",
   "copy": {
     "success": "The copying was successful!"
-  },
-  "test": "test"
+  }
 }
