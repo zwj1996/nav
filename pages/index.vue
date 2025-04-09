@@ -1,12 +1,12 @@
 <template>
   <div class="container">
     <div class="bg">
-      <div class="img1">
+      <!-- <div class="img1">
         <img src="../assets/images/bg-txt1.png" />
       </div>
       <div class="img2">
         <img src="../assets/images/bg-txt2.png" />
-      </div>
+      </div> -->
       <div class="share-btn">
         <el-button @click="copy">
           <span class="icon">
@@ -85,6 +85,9 @@
     }
     .share-btn {
       text-align: center;
+      position: absolute;
+      bottom: 18rem;
+      width: 100%;
       button {
         background: #7b61ff;
         color: #fff;
