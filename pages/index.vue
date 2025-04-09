@@ -45,6 +45,8 @@
 </template>
 
 <script setup lang="ts">
+  import { useI18n } from 'vue-i18n'
+  const { t } = useI18n()
   const nuxtApp = useNuxtApp()
   useHead({ ...nuxtApp.$setHead('home') })
   definePageMeta({
@@ -54,6 +56,7 @@
   })
   const copy = () => {
     useCopy(window.location.href)
+    ElMessage.success(t('copy.success'))
   }
 </script>
 

@@ -2,5 +2,8 @@
   "emptyMsg": " Sorry, the result you were looking for was not found~",
   "searchMsg": " Please enter search ~",
   "shareMsg": "Share with Friends",
-  "viewMsg": "Visit the Website"
+  "viewMsg": "Visit the Website",
+  "copy": {
+    "success": "The copying was successful!"
+  }
 }

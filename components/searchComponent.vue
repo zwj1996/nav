@@ -1,7 +1,6 @@
 <template>
   <div class="box">
     <div>
-      <p>search-row</p>
       <el-input
         :placeholder="$t('searchMsg')"
         @keyup.enter="doSearch"
