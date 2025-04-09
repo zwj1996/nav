@@ -1,6 +1,6 @@
 <template>
   <div class="box">
-    <!-- <el-collapse v-model="activeNames" v-for="group in list" :key="group.title">
+    <el-collapse v-model="activeNames" v-for="group in list" :key="group.title" class="bg-white">
       <el-collapse-item :name="group.title">
         <template #title>
           <span class="group-title">
@@ -13,14 +13,7 @@
           </div>
         </div>
       </el-collapse-item>
-    </el-collapse> -->
-    <template v-for="group in list" :key="group.title">
-      <div class="flex items-center flex-wrap grid grid-cols-4">
-        <div v-for="util in group.nav" :key="util.name" class="card">
-          <cardItem :util="util" />
-        </div>
-      </div>
-    </template>
+    </el-collapse>
   </div>
 </template>
 
@@ -56,7 +49,6 @@
 <style lang="less" scoped>
   .card {
     margin: 12px 8px;
-    background: #fff;
   }
   .group-title {
     color: #3f51b5;

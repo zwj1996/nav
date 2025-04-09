@@ -28,10 +28,10 @@
     position: absolute;
     z-index: 999;
     right: 40px;
-    bottom: 40px;
+    top: 40px;
   }
   .box-1 {
-    background: #fff;
+    // background: #fff;
     border-radius: 100%;
     width: 60px;
     height: 60px;

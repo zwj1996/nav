@@ -1,50 +1,123 @@
 <template>
   <div class="container">
-    <el-container class="container_body">
-      <el-header class="container_header">
-        <Header />
-      </el-header>
-      <el-container class="container_main">
-        <el-aside width="120px">
-          <Asider />
-        </el-aside>
-        <el-main class="container_info">
-          <searchComponent />
-          <nuxt-page />
-        </el-main>
+    <div class="bg">
+      <div class="img1">
+        <img src="../assets/images/bg-txt1.png" />
+      </div>
+      <div class="img2">
+        <img src="../assets/images/bg-txt2.png" />
+      </div>
+      <div class="share-btn">
+        <el-button @click="copy">
+          <span class="icon">
+            <icon type="earth" />
+          </span>
+          {{ $t('shareMsg') }}
+        </el-button>
+      </div>
+      <div class="search-group">
+        <searchComponent />
+      </div>
+      <Extra class="extra"></Extra>
+    </div>
+    <el-main class="container_info">
+      <nuxt-page />
+    </el-main>
+
+    <!-- <div class="container-2">
+      <el-container class="container_body">
+        <el-header class="container_header">
+          <Header />
+        </el-header>
+        <el-container class="container_main">
+          <el-aside width="120px">
+            <Asider />
+          </el-aside>
+          <el-main class="container_info">
+            <searchComponent />
+            <nuxt-page />
+          </el-main>
+        </el-container>
       </el-container>
-    </el-container>
-    <Extra class="extra"></Extra>
+    
+    </div> -->
   </div>
 </template>
 
 <script setup lang="ts">
   const nuxtApp = useNuxtApp()
   useHead({ ...nuxtApp.$setHead('home') })
-
-  // useHead({
-  //   title: t('title'),
-  //   meta: [
-  //     { hid: 'keywords', name: 'keywords', content: '关键词，导航' },
-  //     { hid: 'description', name: 'description', content: '这是一个导航网站' }
-  //   ]
-  // })
   definePageMeta({
     redirect: '/collect',
     title: '首页',
     hideInMenu: false
   })
+  const copy = () => {
+    useCopy(window.location.href)
+  }
 </script>
 
 <style scoped lang="less">
   .container {
-    background: #dfe5eb;
-    padding: 16px 14%;
+    background: #f8f8f8;
     height: 100vh;
+    width: 100vw;
     position: relative;
   }
+  .bg {
+    background: url('../assets/images/bg.png');
+    width: 100vw;
+    height: 60vh;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-bottom: -2rem;
+    z-index: 2;
+    position: relative;
+    .search-group {
+      position: absolute;
+      bottom: 5rem;
+      width: 100%;
+    }
+    .share-btn {
+      text-align: center;
+      button {
+        background: #7b61ff;
+        color: #fff;
+        border: 0;
+        font-size: 1rem;
+      }
+    }
+    .img1 {
+      padding-top: 8rem;
+      margin-bottom: 2rem;
+      text-align: center;
+      img {
+        margin: 0 auto;
+        height: 30px;
+      }
+    }
+    .img2 {
+      margin-bottom: 2rem;
+      text-align: center;
+      img {
+        margin: 0 auto;
+        height: 36px;
+      }
+    }
+    .icon {
+      margin-right: 4px;
+    }
+  }
+
+  .container_info {
+    padding: 3rem 2rem;
+    position: relative;
+  }
+
   .container_body {
-    background: #f5f5f5;
+    background: #f8f8f8;
     height: 100%;
   }
   .container_header {
@@ -55,9 +128,5 @@
   .container_main {
     height: calc(100vh - 60px);
     overflow-y: auto;
-  }
-  .container_info {
-    background: #fff;
-    padding: 8px 16px;
   }
 </style>

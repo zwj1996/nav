@@ -1,4 +1,6 @@
 {
   "emptyMsg": " Sorry, the result you were looking for was not found~",
-  "searchMsg": " Please enter search ~"
+  "searchMsg": " Please enter search ~",
+  "shareMsg": "Share with Friends",
+  "viewMsg": "Visit the Website"
 }

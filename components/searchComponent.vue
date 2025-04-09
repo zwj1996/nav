@@ -1,15 +1,21 @@
 <template>
   <div class="box">
-    <el-input
-      :placeholder="$t('searchMsg')"
-      @keyup.enter="doSearch"
-      v-model="filter"
-      class="search-input"
-    >
-      <template #append>
-        <el-button :icon="Search" />
-      </template>
-    </el-input>
+    <div>
+      <p>search-row</p>
+      <el-input
+        :placeholder="$t('searchMsg')"
+        @keyup.enter="doSearch"
+        v-model="filter"
+        size="large"
+        class="search-input"
+      >
+        <template #suffix>
+          <el-button @click="doSearch" class="btn">
+            <el-icon><Search /></el-icon>
+          </el-button>
+        </template>
+      </el-input>
+    </div>
   </div>
 </template>
 
@@ -39,8 +45,17 @@
   .box {
     margin-bottom: 12px;
     text-align: center;
-  }
-  .search-input {
-    width: 50%;
+    color: #fff;
+    width: 50vw;
+    margin: 0 auto;
+    p {
+      text-align: left;
+    }
+    .btn {
+      background: #7b61ff;
+      color: #fff;
+      border: 0;
+      font-size: 1rem;
+    }
   }
 </style>

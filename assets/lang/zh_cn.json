@@ -1,4 +1,6 @@
 {
   "emptyMsg": "对不起，没有找到您想要的结果~",
-  "searchMsg": "请输入搜索~"
+  "searchMsg": "请输入搜索~",
+  "shareMsg": "分享给好友",
+  "viewMsg": "访问网站"
 }
