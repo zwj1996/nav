@@ -1,58 +1,37 @@
-[{
-	"title": "Make Money",
-	"nav": [{
-		"title": "Make Money",
-		"nav": [{
-				"title": "Make Money",
-				"nav": [{
-						"icon": "https://d2yoybm6koqa1u.cloudfront.net/public/build/assets/favicon.webp",
-						"name": "Bigcash",
-						"desc": "BigCash is a platform that allows users to earn cash by completing various tasks. Users can earn cash through activities such as completing survey questionnaires, providing feedback, testing new votes, and location rewards. ",
-						"url": "https://bigcashweb.com/",
-						"rate": 5,
-						"breadcrumb": ["博客看点", "博客看点", "Team"],
-						"id": 834,
-						"tags": []
-					},
-					{
-						"icon": "https://static.myiyo.com/files/d/img/favicon/iyo.ico",
-						"name": "myiyo",
-						"desc": "1. Paid survey We send you paid surveys via email and mobile applications. You can earn points every time you successfully complete the survey. 2. Participate in the survey Registering for Myiyo is free, and your personal data will be kept absolutely confidential. 3. Obtain remuneration The points earned from your paid survey will be exchanged for cash and sent to you via PayPal.",
-						"url": "https://www.myiyo.com/",
-						"rate": 5,
-						"breadcrumb": ["博客看点", "博客看点", "Team"],
-						"id": 835,
-						"tags": []
-					},
-					{
-						"icon": "https://www.get-paid.com/favicon.ico",
-						"name": "get-paid",
-						"desc": "Earn and win coins by completing online surveys and tasks,playing games,watching videos,and more.Exchange coins Easily redeem the coins you earn and win in our store or cash them out.",
-						"url": "https://www.get-paid.com/",
-						"rate": 5,
-						"breadcrumb": ["博客看点", "博客看点", "Team"],
-						"id": 836,
-						"tags": []
-					},
-					{
-						"icon": "https://earnut.com/favicon.ico",
-						"name": "EARNUT",
-						"desc": "where users can earn money at home by participating in various activities such as watching ads, videos, downloading applications, answering surveys, and even playing games.",
-						"url": "https://earnut.com/",
-						"rate": 5,
-						"breadcrumb": ["博客看点", "博客看点", "Team"],
-						"id": 837,
-						"tags": []
-					}
-				],
-				"icon": "",
-				"id": 199
-			}
-
-		],
-		"icon": "",
-		"id": 198
-	}],
-	"icon": "",
-	"id": 197
-}]
+[
+  {
+    "title": "Make Money",
+    "nav": [
+      {
+        "title": "paid surveys",
+        "nav": [
+          {
+            "title": "paid surveys",
+            "nav": [
+              {
+                "icon": "https://cdn.prod.website-files.com/6323f5a2029fcf7484d6fe41/63f78d5803ba5894ae3282e3_ZapSurveys-Favicon32x32.png",
+                "name": "Zap Surveys",
+                "desc": "Zap Surveys is an innovative market research platform designed to provide rewards for users who share their ideas and opinions. This platform helps businesses and enterprises around the world improve their products and services by collecting user opinions on various topics. Users can participate in surveys, complete simple tasks, and receive rewards through dedicated mobile applications or website interfaces.",
+                "url": "https://bigcashweb.com/https://www.zapsurveys.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 834,
+                "tags": []
+              },
+              {
+                "icon": "favicon-32x32.png (32×32)",
+                "name": "Cointiply",
+                "desc": "Create a new account and log in to start; Play mobile and desktop games to earn gold coin rewards; Complete tasks to upgrade and earn reward points; Complete quick quotes to earn more Bitcoin every day; Completing surveys every day can earn thousands of gold coins; Watch videos and earn coins.",
+                "url": "https://cointiply.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 835,
+                "tags": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
