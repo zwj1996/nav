@@ -66,6 +66,7 @@
     height: 100vh;
     width: 100vw;
     position: relative;
+    overflow-y: auto;
   }
   .bg {
     background: url('../assets/images/bg.png');
