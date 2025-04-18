@@ -67,6 +67,26 @@
                 "breadcrumb": ["博客看点", "博客看点", "Team"],
                 "id": 839,
                 "tags": []
+              },
+              {
+                "icon": "https://cdn-app.surveoo.com/assets/site/img/logo.png",
+                "name": "Surveoo",
+                "desc": "We choose the best paid surveys on the market, you answer, and you earn cash!",
+                "url": "https://www.surveoo.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 840,
+                "tags": []
+              },
+              {
+                "icon": "https://www.paid-to-read-email.com/img/logo.png",
+                "name": "Paid to Read Email",
+                "desc": "Join to receive a $3 bonus!",
+                "url": "https://cointiply.com/https://www.paid-to-read-email.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 841,
+                "tags": []
               }
             ],
             "icon": "",
