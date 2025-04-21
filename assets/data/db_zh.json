@@ -87,6 +87,67 @@
                 "breadcrumb": ["博客看点", "博客看点", "Team"],
                 "id": 841,
                 "tags": []
+              },
+
+              {
+                "icon": "https://www.ysense.com/_r397-90383e6/img/logo.svg",
+                "name": "ySense",
+                "desc": "Earn cash by participating in free paid surveys while influencing next-generation products, services, and more.\nYou can earn rewards by trying new products and services, downloading applications, registering websites, watching videos, and more.\nShare ySense with friends and witness your income growth. You can receive up to 30% of the referrer's income!",
+                "url": "https://www.ysense.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 842,
+                "tags": []
+              },
+              {
+                "icon": "https://keeprewarding.com/assets/landing/images/KRLogoWhite468x80.png",
+                "name": "keeprewarding",
+                "desc": "Watch videos, complete surveys, visit websites, etc., and redeem for gift cards such as PayPal, Amazon, Tango Card, etc!",
+                "url": "https://keeprewarding.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 843,
+                "tags": []
+              },
+              {
+                "icon": "https://panel.marketagent.com/media/pic/MarketagentLogo.svg",
+                "name": "marketagent",
+                "desc": "Earn money through each survey and exchange",
+                "url": "https://panel.marketagent.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 844,
+                "tags": []
+              },
+              {
+                "icon": "https://d1tfzqz2829nun.cloudfront.net/favicon-16x16.png",
+                "name": "gotranscript",
+                "desc": "At GoTranscript, we support over 40 languages, which means almost everyone can find their own language here. Whether you are a newcomer or an experienced professional, our global network has a suitable location for you. As we expand, we will offer more languages and opportunities - providing you with a constantly growing platform to showcase your skills.",
+                "url": "https://gotranscript.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 845,
+                "tags": []
+              },
+              {
+                "icon": "https://www.prizerebel.com/assets/images/pr_og_image.png",
+                "name": "prizerebel",
+                "desc": "Since 2007, PrizeRebel.com has been committed to connecting market researchers with everyday consumers like you. We give you the opportunity to shape the future of our products and surveys by expressing your opinions in exchange for free gift cards and PayPal cash! We have over 14 million users worldwide, and we welcome you to join and participate for free!",
+                "url": "https://www.prizerebel.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 846,
+                "tags": []
+              },
+              {
+                "icon": "https://serpclix.com/static/core/img/serpclix-logox40.png",
+                "name": "serpclix",
+                "desc": "Visit the website to receive rewards",
+                "url": "https://serpclix.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 847,
+                "tags": []
               }
             ],
             "icon": "",

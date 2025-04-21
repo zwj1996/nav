@@ -34,7 +34,7 @@
     <div class="card-container">
       <div class="card-front">
         <div class="card-inner">
-          <div>
+          <div class="card-img">
             <img v-Mlazy:img="util.icon" class="icon" v-if="util.icon" @error="util.icon = null" />
             <div class="icon-empty" v-else>{{ (util.name || '').substring(0, 1) }}</div>
           </div>
@@ -130,8 +130,12 @@
     display: inline-block;
     margin-right: 2px;
   }
+
+  .card-img {
+    text-align: center;
+    width: 100%;
+  }
   .icon {
-    width: 56px;
     height: 56px;
     display: inline-block;
   }
@@ -253,7 +257,6 @@
     color: #555;
     font-weight: 800;
   }
-
   .card-container .card-back {
     -webkit-transform: rotateY(180deg);
     transform: rotateY(180deg);
