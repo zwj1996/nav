@@ -148,6 +148,26 @@
                 "breadcrumb": ["博客看点", "博客看点", "Team"],
                 "id": 847,
                 "tags": []
+              },
+              {
+                "icon": "https://cashinstyle.com/static/images/cashinstyle_new.svg",
+                "name": "cashinstyle",
+                "desc": "Participate in promotional activities and surveys to earn rewards!",
+                "url": "https://cashinstyle.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 848,
+                "tags": []
+              },
+              {
+                "icon": "https://internal.mobrog.com/assets/mobrog2/img/favicon/apple-icon-57x57.png",
+                "name": "mobrog",
+                "desc": "Free registration, easy to operate. Complete the survey online or conduct the survey through our application and receive rewards for your valuable insights.",
+                "url": "https://mobrog.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 849,
+                "tags": []
               }
             ],
             "icon": "",
