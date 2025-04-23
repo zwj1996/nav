@@ -168,6 +168,26 @@
                 "breadcrumb": ["博客看点", "博客看点", "Team"],
                 "id": 849,
                 "tags": []
+              },
+              {
+                "icon": "https://primeopinion.com/_nuxt/logo.D8KKbCpV.svg",
+                "name": "primeopinion",
+                "desc": "Participate in free surveys to receive rewards",
+                "url": "https://primeopinion.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 850,
+                "tags": []
+              },
+              {
+                "icon": "https://rewardingways.com/logo-top-orange.png",
+                "name": "rewardingway",
+                "desc": "Make money easily online at RewardingWays! Registration is simple and fast, joining will earn you a $1 reward. Join us and you can earn extra income by receiving cash on the same day or receiving gift cards from large retailers. This is an excellent opportunity to start making money immediately!",
+                "url": "https://rewardingways.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 851,
+                "tags": []
               }
             ],
             "icon": "",
