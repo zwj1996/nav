@@ -188,6 +188,26 @@
                 "breadcrumb": ["博客看点", "博客看点", "Team"],
                 "id": 851,
                 "tags": []
+              },
+              {
+                "icon": "https://rewardy.b-cdn.net/img/logo.png",
+                "name": "rewardy",
+                "desc": "Play games/listen to music/watch live streams/complete quotes/surveys earn over $5.00 per day through listening to music, watching live streams, and taking quizzes",
+                "url": "https://rewardy.io/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 852,
+                "tags": []
+              },
+              {
+                "icon": "https://heycash.com/_nuxt/logo.CoRICsHM.svg",
+                "name": "Heycash",
+                "desc": "Play games, participate in surveys, and earn money",
+                "url": "https://heycash.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 853,
+                "tags": []
               }
             ],
             "icon": "",
