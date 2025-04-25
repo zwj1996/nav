@@ -208,6 +208,26 @@
                 "breadcrumb": ["博客看点", "博客看点", "Team"],
                 "id": 853,
                 "tags": []
+              },
+              {
+                "icon": "https://cdn.clickworker.com/wp-content/uploads/fbrfg/apple-touch-icon.png?v1.3=m2d3oL4778",
+                "name": "clickworker",
+                "desc": "We not only provide simple click to work, but also offer fun filled tasks. Join us and participate in AI training, questionnaire surveys, voice recordings, and photography competitions to shape the future together.",
+                "url": "https://www.clickworker.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 854,
+                "tags": []
+              },
+              {
+                "icon": "https://publisher.linkvertise.com/android-icon-192x192.png",
+                "name": "Linkvertise",
+                "desc": "Share links and earn money from every visitor who clicks on your link!",
+                "url": "https://publisher.linkvertise.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 855,
+                "tags": []
               }
             ],
             "icon": "",
