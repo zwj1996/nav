@@ -228,6 +228,56 @@
                 "breadcrumb": ["博客看点", "博客看点", "Team"],
                 "id": 855,
                 "tags": []
+              },
+              {
+                "icon": "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iZml2ZXJyLWxvZ28tc3RhdGljIiB3aWR0aD0iODkiIGhlaWdodD0iMjciIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTgxLjYgMTMuMWgtMy4xYy0yIDAtMy4xIDEuNS0zLjEgNC4xdjkuM2gtNlYxMy4xaC0yLjVjLTIgMC0zLjEgMS41LTMuMSA0LjF2OS4zaC02VjguMWg2djIuOGMxLTIuMiAyLjMtMi44IDQuMy0yLjhoNy4zdjIuOGMxLTIuMiAyLjMtMi44IDQuMy0yLjhoMnptLTI1LjIgNS42SDQ0Yy4zIDIuMSAxLjYgMy4yIDMuNyAzLjIgMS42IDAgMi43LS43IDMuMS0xLjhsNS4zIDEuNWMtMS4zIDMuMi00LjUgNS4xLTguNCA1LjEtNi41IDAtOS41LTUuMS05LjUtOS41IDAtNC4zIDIuNi05LjQgOS4xLTkuNCA2LjkgMCA5LjIgNS4yIDkuMiA5LjEgMCAuOSAwIDEuNC0uMSAxLjh6bS01LjctMy41Yy0uMS0xLjYtMS4zLTMtMy4zLTMtMS45IDAtMyAuOC0zLjQgM3pNMjcuOCAyNi41SDMzbDYuNi0xOC4zaC02bC0zLjIgMTAuNy0zLjItMTAuOGgtNnptLTI0LjQgMGg1LjlWMTMuMUgxNXYxMy40aDUuOVY4LjFIOS4zVjdjMC0xLjIuOS0yIDIuMi0ySDE1VjBoLTQuNEM2LjMgMCAzLjQgMi43IDMuNCA2LjZ2MS41SDB2NWgzLjR6IiBmaWxsPSIjMDAzOTEyIi8+PHBhdGggZD0iTTg1LjMgMjdjMiAwIDMuNy0xLjcgMy43LTMuN3MtMS43LTMuNy0zLjctMy43LTMuNyAxLjctMy43IDMuNyAxLjcgMy43IDMuNyAzLjd6IiBmaWxsPSIjMWRiZjczIi8+PC9zdmc+",
+                "name": "fiverr",
+                "desc": "Searching for freelance jobs in various professions",
+                "url": "https://www.fiverr.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 856,
+                "tags": []
+              },
+              {
+                "icon": "https://www.upwork.com/favicon.ico",
+                "name": "upwork",
+                "desc": "Covering professions such as programmers, designers, translators, etc., supporting short-term projects, long-term contracts, and hourly billing, providing secure payment guarantees.",
+                "url": "https://www.upwork.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 857,
+                "tags": []
+              },
+              {
+                "icon": "https://www.peopleperhour.com/favicon.ico",
+                "name": "‌PeoplePerHour",
+                "desc": "Publish tasks by the hour, with fast update speed, suitable for freelance designers, developers, and writers who are flexible in accepting orders.",
+                "url": "https://www.peopleperhour.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 858,
+                "tags": []
+              },
+              {
+                "icon": "https://www.taskpay.ru/img/favicon/favicon-32x32.png",
+                "name": "Taskpay",
+                "desc": "New users will receive a free $25 upon registration, and can earn up to $50 per session by completing tasks such as testing the application, participating in surveys, and typing challenges.",
+                "url": "https://www.taskpay.ru/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 859,
+                "tags": []
+              },
+              {
+                "icon": "https://www.inboxdollars.com/favicon.png",
+                "name": "inboxdollars",
+                "desc": "Support tasks such as watching videos, playing games, and filling out surveys to earn cash directly, with a low threshold.",
+                "url": "https://www.inboxdollars.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 860,
+                "tags": []
               }
             ],
             "icon": "",
