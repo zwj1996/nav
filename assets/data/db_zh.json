@@ -278,6 +278,31 @@
                 "breadcrumb": ["博客看点", "博客看点", "Team"],
                 "id": 860,
                 "tags": []
+              },
+              {
+                "title": "paid surveys",
+                "nav": [
+                  {
+                    "icon": "https://gaintplay.com/favicon.ico",
+                    "name": "GaintPlay",
+                    "desc": "By testing mobile games or apps to earn points, you can earn 1-3 points per hour, support PayPal withdrawals, and double holiday activity task rewards",
+                    "url": "https://gaintplay.com/",
+                    "rate": 5,
+                    "breadcrumb": ["博客看点", "博客看点", "Team"],
+                    "id": 861,
+                    "tags": []
+                  },
+                  {
+                    "icon": "https://grabpoints.com/favicon.ico",
+                    "name": "GrabPoints",
+                    "desc": "Complete daily game tasks, check ins, etc. to earn points, with a minimum of 5 withdrawals, suitable for fragmented time operations, with an average monthly income of 20- $60",
+                    "url": "https://grabpoints.com/",
+                    "rate": 5,
+                    "breadcrumb": ["博客看点", "博客看点", "Team"],
+                    "id": 862,
+                    "tags": []
+                  }
+                ]
               }
             ],
             "icon": "",
