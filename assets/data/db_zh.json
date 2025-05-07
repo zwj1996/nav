@@ -301,6 +301,26 @@
                     "breadcrumb": ["博客看点", "博客看点", "Team"],
                     "id": 862,
                     "tags": []
+                  },
+                  {
+                    "icon": "https://www.mypoints.com/img/logo-200x38.png",
+                    "name": "MyPoints",
+                    "desc": "Focused on advertising browsing and brand interaction tasks, single ad click rewards range from 0.02 to 0.1, supports PayPal withdrawal, and can be credited within 24 hours.",
+                    "url": "https://gaintplay.com/",
+                    "rate": 5,
+                    "breadcrumb": ["博客看点", "博客看点", "Team"],
+                    "id": 863,
+                    "tags": []
+                  },
+                  {
+                    "icon": "https://www.lifepointspanel.com/themes/lifepoints_sass/img/favicons/180.png",
+                    "name": "‌GlobalTestMarket-LifePoints",
+                    "desc": "A well-established research platform with diverse types of surveys covering areas such as consumption and technology.",
+                    "url": "https://www.lifepointspanel.com/",
+                    "rate": 5,
+                    "breadcrumb": ["博客看点", "博客看点", "Team"],
+                    "id": 864,
+                    "tags": []
                   }
                 ]
               }
