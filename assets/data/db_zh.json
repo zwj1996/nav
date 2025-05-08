@@ -321,6 +321,26 @@
                     "breadcrumb": ["博客看点", "博客看点", "Team"],
                     "id": 864,
                     "tags": []
+                  },
+                  {
+                    "icon": "https://gaintplay.com/assets/icons/Icon-72.png",
+                    "name": "QuickRewards",
+                    "desc": "A comprehensive platform that supports survey questionnaires, watching videos, and game tasks, with no minimum withdrawal limit and fast payment speed (within 1 hour).",
+                    "url": "https://gaintplay.com/",
+                    "rate": 5,
+                    "breadcrumb": ["博客看点", "博客看点", "Team"],
+                    "id": 865,
+                    "tags": []
+                  },
+                  {
+                    "icon": "https://www.bananatic.com/eu/images/logo3.png",
+                    "name": "Bananatic‌",
+                    "desc": "Combining game trials with video advertisements, players can try designated games and write reviews to redeem points (2500 points=$5). Game enthusiasts, support PayPal and gift card withdrawals.",
+                    "url": "https://www.bananatic.com/",
+                    "rate": 5,
+                    "breadcrumb": ["博客看点", "博客看点", "Team"],
+                    "id": 866,
+                    "tags": []
                   }
                 ]
               }
