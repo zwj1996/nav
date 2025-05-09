@@ -341,6 +341,26 @@
                     "breadcrumb": ["博客看点", "博客看点", "Team"],
                     "id": 866,
                     "tags": []
+                  },
+                  {
+                    "icon": "https://trymata.com/wp-content/themes/blogus/images/next/newlogo.svg",
+                    "name": "Trymata",
+                    "desc": "Website/App Testing\nReceive the testing link assigned by the platform, complete the specified operations according to the instructions (such as clicking on the path, page interaction), synchronously record the operation screen, and submit the feedback report. The single testing profit is 5-30.\nQuestionnaire survey task\nParticipate in user research published on the platform, complete questionnaire filling or in-depth interviews, and earn 3-15 yuan per session.",
+                    "url": "https://trymata.com/",
+                    "rate": 5,
+                    "breadcrumb": ["博客看点", "博客看点", "Team"],
+                    "id": 867,
+                    "tags": []
+                  },
+                  {
+                    "icon": "https://lp.surveyjunkie.com/templates/lp_blue_01282019/img/logo.png",
+                    "name": "SurveyJunkie",
+                    "desc": "Focusing on questionnaire surveys, the point redemption ratio is 1 point=1 cent, and supports the redemption of PayPal cash or gift cards. Users can complete a high relevance questionnaire by matching their personal information, with a withdrawal threshold of $55.\nTip: Prioritize selecting the \"Popular Survey\" tag task to increase the pass rate by 30%",
+                    "url": "https://lp.surveyjunkie.com/",
+                    "rate": 5,
+                    "breadcrumb": ["博客看点", "博客看点", "Team"],
+                    "id": 868,
+                    "tags": []
                   }
                 ]
               }
