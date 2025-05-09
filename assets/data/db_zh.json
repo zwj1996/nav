@@ -280,89 +280,84 @@
                 "tags": []
               },
               {
-                "title": "paid surveys",
-                "nav": [
-                  {
-                    "icon": "https://gaintplay.com/favicon.ico",
-                    "name": "GaintPlay",
-                    "desc": "By testing mobile games or apps to earn points, you can earn 1-3 points per hour, support PayPal withdrawals, and double holiday activity task rewards",
-                    "url": "https://gaintplay.com/",
-                    "rate": 5,
-                    "breadcrumb": ["博客看点", "博客看点", "Team"],
-                    "id": 861,
-                    "tags": []
-                  },
-                  {
-                    "icon": "https://grabpoints.com/favicon.ico",
-                    "name": "GrabPoints",
-                    "desc": "Complete daily game tasks, check ins, etc. to earn points, with a minimum of 5 withdrawals, suitable for fragmented time operations, with an average monthly income of 20- $60",
-                    "url": "https://grabpoints.com/",
-                    "rate": 5,
-                    "breadcrumb": ["博客看点", "博客看点", "Team"],
-                    "id": 862,
-                    "tags": []
-                  },
-                  {
-                    "icon": "https://www.mypoints.com/img/logo-200x38.png",
-                    "name": "MyPoints",
-                    "desc": "Focused on advertising browsing and brand interaction tasks, single ad click rewards range from 0.02 to 0.1, supports PayPal withdrawal, and can be credited within 24 hours.",
-                    "url": "https://gaintplay.com/",
-                    "rate": 5,
-                    "breadcrumb": ["博客看点", "博客看点", "Team"],
-                    "id": 863,
-                    "tags": []
-                  },
-                  {
-                    "icon": "https://www.lifepointspanel.com/themes/lifepoints_sass/img/favicons/180.png",
-                    "name": "‌GlobalTestMarket-LifePoints",
-                    "desc": "A well-established research platform with diverse types of surveys covering areas such as consumption and technology.",
-                    "url": "https://www.lifepointspanel.com/",
-                    "rate": 5,
-                    "breadcrumb": ["博客看点", "博客看点", "Team"],
-                    "id": 864,
-                    "tags": []
-                  },
-                  {
-                    "icon": "https://gaintplay.com/assets/icons/Icon-72.png",
-                    "name": "QuickRewards",
-                    "desc": "A comprehensive platform that supports survey questionnaires, watching videos, and game tasks, with no minimum withdrawal limit and fast payment speed (within 1 hour).",
-                    "url": "https://gaintplay.com/",
-                    "rate": 5,
-                    "breadcrumb": ["博客看点", "博客看点", "Team"],
-                    "id": 865,
-                    "tags": []
-                  },
-                  {
-                    "icon": "https://www.bananatic.com/eu/images/logo3.png",
-                    "name": "Bananatic‌",
-                    "desc": "Combining game trials with video advertisements, players can try designated games and write reviews to redeem points (2500 points=$5). Game enthusiasts, support PayPal and gift card withdrawals.",
-                    "url": "https://www.bananatic.com/",
-                    "rate": 5,
-                    "breadcrumb": ["博客看点", "博客看点", "Team"],
-                    "id": 866,
-                    "tags": []
-                  },
-                  {
-                    "icon": "https://trymata.com/wp-content/themes/blogus/images/next/newlogo.svg",
-                    "name": "Trymata",
-                    "desc": "Website/App Testing\nReceive the testing link assigned by the platform, complete the specified operations according to the instructions (such as clicking on the path, page interaction), synchronously record the operation screen, and submit the feedback report. The single testing profit is 5-30.\nQuestionnaire survey task\nParticipate in user research published on the platform, complete questionnaire filling or in-depth interviews, and earn 3-15 yuan per session.",
-                    "url": "https://trymata.com/",
-                    "rate": 5,
-                    "breadcrumb": ["博客看点", "博客看点", "Team"],
-                    "id": 867,
-                    "tags": []
-                  },
-                  {
-                    "icon": "https://lp.surveyjunkie.com/templates/lp_blue_01282019/img/logo.png",
-                    "name": "SurveyJunkie",
-                    "desc": "Focusing on questionnaire surveys, the point redemption ratio is 1 point=1 cent, and supports the redemption of PayPal cash or gift cards. Users can complete a high relevance questionnaire by matching their personal information, with a withdrawal threshold of $55.\nTip: Prioritize selecting the \"Popular Survey\" tag task to increase the pass rate by 30%",
-                    "url": "https://lp.surveyjunkie.com/",
-                    "rate": 5,
-                    "breadcrumb": ["博客看点", "博客看点", "Team"],
-                    "id": 868,
-                    "tags": []
-                  }
-                ]
+                "icon": "https://gaintplay.com/favicon.ico",
+                "name": "GaintPlay",
+                "desc": "By testing mobile games or apps to earn points, you can earn 1-3 points per hour, support PayPal withdrawals, and double holiday activity task rewards",
+                "url": "https://gaintplay.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 861,
+                "tags": []
+              },
+              {
+                "icon": "https://grabpoints.com/favicon.ico",
+                "name": "GrabPoints",
+                "desc": "Complete daily game tasks, check ins, etc. to earn points, with a minimum of 5 withdrawals, suitable for fragmented time operations, with an average monthly income of 20- $60",
+                "url": "https://grabpoints.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 862,
+                "tags": []
+              },
+              {
+                "icon": "https://www.mypoints.com/img/logo-200x38.png",
+                "name": "MyPoints",
+                "desc": "Focused on advertising browsing and brand interaction tasks, single ad click rewards range from 0.02 to 0.1, supports PayPal withdrawal, and can be credited within 24 hours.",
+                "url": "https://gaintplay.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 863,
+                "tags": []
+              },
+              {
+                "icon": "https://www.lifepointspanel.com/themes/lifepoints_sass/img/favicons/180.png",
+                "name": "‌GlobalTestMarket-LifePoints",
+                "desc": "A well-established research platform with diverse types of surveys covering areas such as consumption and technology.",
+                "url": "https://www.lifepointspanel.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 864,
+                "tags": []
+              },
+              {
+                "icon": "https://gaintplay.com/assets/icons/Icon-72.png",
+                "name": "QuickRewards",
+                "desc": "A comprehensive platform that supports survey questionnaires, watching videos, and game tasks, with no minimum withdrawal limit and fast payment speed (within 1 hour).",
+                "url": "https://gaintplay.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 865,
+                "tags": []
+              },
+              {
+                "icon": "https://www.bananatic.com/eu/images/logo3.png",
+                "name": "Bananatic‌",
+                "desc": "Combining game trials with video advertisements, players can try designated games and write reviews to redeem points (2500 points=$5). Game enthusiasts, support PayPal and gift card withdrawals.",
+                "url": "https://www.bananatic.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 866,
+                "tags": []
+              },
+              {
+                "icon": "https://trymata.com/wp-content/themes/blogus/images/next/newlogo.svg",
+                "name": "Trymata",
+                "desc": "Website/App Testing\nReceive the testing link assigned by the platform, complete the specified operations according to the instructions (such as clicking on the path, page interaction), synchronously record the operation screen, and submit the feedback report. The single testing profit is 5-30.\nQuestionnaire survey task\nParticipate in user research published on the platform, complete questionnaire filling or in-depth interviews, and earn 3-15 yuan per session.",
+                "url": "https://trymata.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 867,
+                "tags": []
+              },
+              {
+                "icon": "https://lp.surveyjunkie.com/templates/lp_blue_01282019/img/logo.png",
+                "name": "SurveyJunkie",
+                "desc": "Focusing on questionnaire surveys, the point redemption ratio is 1 point=1 cent, and supports the redemption of PayPal cash or gift cards. Users can complete a high relevance questionnaire by matching their personal information, with a withdrawal threshold of $55.\nTip: Prioritize selecting the \"Popular Survey\" tag task to increase the pass rate by 30%",
+                "url": "https://lp.surveyjunkie.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 868,
+                "tags": []
               }
             ],
             "icon": "",
