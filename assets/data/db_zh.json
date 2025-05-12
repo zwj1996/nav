@@ -358,6 +358,26 @@
                 "breadcrumb": ["博客看点", "博客看点", "Team"],
                 "id": 868,
                 "tags": []
+              },
+              {
+                "icon": "https://www.lifepointspanel.com/themes/lifepoints_sass/img/favicons/favicon.ico",
+                "name": "Lifepoints",
+                "desc": "The return on a single questionnaire is about $1 (100 points=$1), with a withdrawal threshold of only $5.5, making it suitable for short-term quick monetization.\nApplicable scenarios: High frequency small-scale questionnaire surveys, platform review cycle shorter than peers.",
+                "url": "https://www.lifepointspanel.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 869,
+                "tags": []
+              },
+              {
+                "icon": "https://www.idle-empire.com/favicon-32x32.png",
+                "name": "Idle-Empire",
+                "desc": "Test mobile games or watch advertising videos to earn points, earning $1-2 per hour, supporting dual device parallel operation to improve efficiency, PayPal minimum $2, credited within 24 hours.",
+                "url": "https://www.idle-empire.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 870,
+                "tags": []
               }
             ],
             "icon": "",
