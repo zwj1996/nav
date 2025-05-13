@@ -378,6 +378,26 @@
                 "breadcrumb": ["博客看点", "博客看点", "Team"],
                 "id": 870,
                 "tags": []
+              },
+              {
+                "icon": "https://www.vidiocash.com/favicon.ico",
+                "name": "Video Cash",
+                "desc": "Upload original videos or watch popular content to earn revenue, support ad sharing, and withdraw a minimum of $2 (PayPal).",
+                "ur": "https://www.vidiocash.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 871,
+                "tags": []
+              },
+              {
+                "icon": "https://lootup.me/assets/img/logo.svg",
+                "name": "‌LootUp",
+                "desc": "Combining tasks such as video watching, questionnaire filling, and app trials, points can be exchanged for cash or Amazon gift cards, with a daily profit limit of $5. It is recommended to perform multiple tasks in parallel to improve efficiency.",
+                "url": "https://lootup.me/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 872,
+                "tags": []
               }
             ],
             "icon": "",
