@@ -398,6 +398,26 @@
                 "breadcrumb": ["博客看点", "博客看点", "Team"],
                 "id": 872,
                 "tags": []
+              },
+              {
+                "icon": "https://strapi.triaba.com/uploads/logo_4c77320cec.png",
+                "name": "Triaba",
+                "desc": "Upload original videos or watch popular content to earn revenue, support ad sharing, and withdraw a minimum of $2 (PayPal).",
+                "ur": "https://www.vidiocash.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 873,
+                "tags": []
+              },
+              {
+                "icon": "https://d29q07j9kpjtt3.cloudfront.net/assets/visitors/img/logo-white-2x.png",
+                "name": "Branded Surveys‌",
+                "desc": "This platform provides brand advertising effectiveness research tasks, and users can redeem cash or gift cards after participating, supporting participation from multiple countries.",
+                "url": "https://surveys.gobranded.com/",
+                "rate": 5,
+                "breadcrumb": ["博客看点", "博客看点", "Team"],
+                "id": 874,
+                "tags": []
               }
             ],
             "icon": "",
